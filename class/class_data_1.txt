@@ -1,0 +1,15 @@
+班级:软件工程
+class:  软件工程 course:      物理 | class:  软件工程 course:      java | class:  软件工程 course:           | class:  软件工程 course:           | class:  软件工程 course:      高数 | 
+class:  软件工程 course:      物理 | class:  软件工程 course:      java | class:  软件工程 course:           | class:  软件工程 course:           | class:  软件工程 course:      高数 | 
+class:  软件工程 course:      英语 | class:  软件工程 course:      高数 | class:  软件工程 course:           | class:  软件工程 course:           | class:  软件工程 course:      高数 | 
+class:  软件工程 course:      英语 | class:  软件工程 course:      高数 | class:  软件工程 course:           | class:  软件工程 course:      java | class:  软件工程 course:      体育 | 
+class:  软件工程 course:      英语 | class:  软件工程 course:      高数 | class:  软件工程 course:           | class:  软件工程 course:      java | class:  软件工程 course:      体育 | 
+
+class:  软件工程 course:       web | class:  软件工程 course:      计导 | class:  软件工程 course:           | class:  软件工程 course:           | class:  软件工程 course:      思修 | 
+class:  软件工程 course:       web | class:  软件工程 course:      计导 | class:  软件工程 course:           | class:  软件工程 course:           | class:  软件工程 course:      思修 | 
+class:  软件工程 course:       web | class:  软件工程 course:      计导 | class:  软件工程 course:           | class:  软件工程 course:           | class:  软件工程 course:      思修 | 
+class:  软件工程 course:           | class:  软件工程 course:           | class:  软件工程 course:           | class:  软件工程 course:           | class:  软件工程 course:           | 
+
+class:  软件工程 course:     C语言 | class:  软件工程 course:      物理 | class:  软件工程 course:           | class:  软件工程 course:     C语言 | class:  软件工程 course:      计导 | 
+class:  软件工程 course:     C语言 | class:  软件工程 course:      物理 | class:  软件工程 course:           | class:  软件工程 course:     C语言 | class:  软件工程 course:      计导 | 
+class:  软件工程 course:     C语言 | class:  软件工程 course:           | class:  软件工程 course:           | class:  软件工程 course:     C语言 | class:  软件工程 course:      计导 | 

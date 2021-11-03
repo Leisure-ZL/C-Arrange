@@ -1,0 +1,85 @@
+教室:1
+class:网络工程 coures:   C语言 | class:网络工程 coures:    体育 | class:网络工程 coures:    汇编 | class:网络工程 coures:    高数 | class:软件工程 coures:    高数 | 
+class:网络工程 coures:   C语言 | class:网络工程 coures:    体育 | class:网络工程 coures:    汇编 | class:网络工程 coures:    高数 | class:软件工程 coures:    高数 | 
+class:网络工程 coures:   C语言 | class:网络工程 coures:    电路 | class:网络工程 coures:    汇编 | class:网络工程 coures:    高数 | class:软件工程 coures:    高数 | 
+class:网络工程 coures:    java | class:网络工程 coures:    电路 | class:网络工程 coures:    物理 | class:软件工程 coures:    java | class:软件工程 coures:    体育 | 
+class:网络工程 coures:    java | class:网络工程 coures:    电路 | class:网络工程 coures:    物理 | class:软件工程 coures:    java | class:软件工程 coures:    体育 | 
+
+class:网络工程 coures:    高数 | class:网络工程 coures:    物理 | class:网络工程 coures:     web | class:网络工程 coures:    电路 | class:软件工程 coures:    思修 | 
+class:网络工程 coures:    高数 | class:网络工程 coures:    物理 | class:网络工程 coures:     web | class:网络工程 coures:    电路 | class:软件工程 coures:    思修 | 
+class:网络工程 coures:    高数 | class:网络工程 coures:    java | class:网络工程 coures:     web | class:网络工程 coures:    电路 | class:软件工程 coures:    思修 | 
+class:         coures:         | class:网络工程 coures:    java | class:         coures:         | class:         coures:         | class:         coures:         | 
+
+class:网络工程 coures:    思修 | class:网络工程 coures:    英语 | class:网络工程 coures:   C语言 | class:软件工程 coures:   C语言 | class:软件工程 coures:    计导 | 
+class:网络工程 coures:    思修 | class:网络工程 coures:    英语 | class:网络工程 coures:   C语言 | class:软件工程 coures:   C语言 | class:软件工程 coures:    计导 | 
+class:网络工程 coures:    思修 | class:网络工程 coures:    英语 | class:网络工程 coures:   C语言 | class:软件工程 coures:   C语言 | class:软件工程 coures:    计导 | 
+
+*******************************************************************************
+教室:2
+class:软件工程 coures:    物理 | class:软件工程 coures:    java | class:    计科 coures:  python | class:    计科 coures:    电路 | class:    计科 coures:  python | 
+class:软件工程 coures:    物理 | class:软件工程 coures:    java | class:    计科 coures:  python | class:    计科 coures:    电路 | class:    计科 coures:  python | 
+class:软件工程 coures:    英语 | class:软件工程 coures:    高数 | class:    计科 coures:  python | class:    计科 coures:    电路 | class:    计科 coures:  python | 
+class:软件工程 coures:    英语 | class:软件工程 coures:    高数 | class:    计科 coures:    体育 | class:    计科 coures:    物理 | class:    计科 coures:    物理 | 
+class:软件工程 coures:    英语 | class:软件工程 coures:    高数 | class:    计科 coures:    体育 | class:    计科 coures:    物理 | class:    计科 coures:    物理 | 
+
+class:软件工程 coures:     web | class:软件工程 coures:    计导 | class:    计科 coures:    高数 | class:    计科 coures:    英语 | class:    计科 coures:    高数 | 
+class:软件工程 coures:     web | class:软件工程 coures:    计导 | class:    计科 coures:    高数 | class:    计科 coures:    英语 | class:    计科 coures:    高数 | 
+class:软件工程 coures:     web | class:软件工程 coures:    计导 | class:    计科 coures:    高数 | class:    计科 coures:    英语 | class:    计科 coures:    高数 | 
+class:         coures:         | class:         coures:         | class:         coures:         | class:         coures:         | class:         coures:         | 
+
+class:软件工程 coures:   C语言 | class:软件工程 coures:    物理 | class:    计科 coures:    思修 | class:    计科 coures:     web | class:    计科 coures:    电路 | 
+class:软件工程 coures:   C语言 | class:软件工程 coures:    物理 | class:    计科 coures:    思修 | class:    计科 coures:     web | class:    计科 coures:    电路 | 
+class:软件工程 coures:   C语言 | class:         coures:         | class:    计科 coures:    思修 | class:    计科 coures:     web | class:    计科 coures:    电路 | 
+
+*******************************************************************************
+教室:3
+class:    计师 coures:    高数 | class:    计师 coures:    物理 | class:    计师 coures:    高数 | class:    计师 coures:    计导 | class:  自动化 coures:    思修 | 
+class:    计师 coures:    高数 | class:    计师 coures:    物理 | class:    计师 coures:    高数 | class:    计师 coures:    计导 | class:  自动化 coures:    思修 | 
+class:    计师 coures:    高数 | class:    计师 coures:    英语 | class:    计师 coures:    高数 | class:    计师 coures:    计导 | class:  自动化 coures:    思修 | 
+class:    计师 coures:    体育 | class:    计师 coures:    英语 | class:         coures:         | class:  自动化 coures:    体育 | class:         coures:         | 
+class:    计师 coures:    体育 | class:    计师 coures:    英语 | class:         coures:         | class:  自动化 coures:    体育 | class:         coures:         | 
+
+class:    计师 coures:    思修 | class:    计师 coures:    教资 | class:    计师 coures:    电路 | class:  自动化 coures:  python | class:  自动化 coures:    电路 | 
+class:    计师 coures:    思修 | class:    计师 coures:    教资 | class:    计师 coures:    电路 | class:  自动化 coures:  python | class:  自动化 coures:    电路 | 
+class:    计师 coures:    思修 | class:    计师 coures:    教资 | class:    计师 coures:    电路 | class:  自动化 coures:  python | class:  自动化 coures:    电路 | 
+class:         coures:         | class:         coures:         | class:         coures:         | class:         coures:         | class:         coures:         | 
+
+class:    计师 coures:    电路 | class:    计师 coures:    计导 | class:    计师 coures:    物理 | class:  自动化 coures:    高数 | class:  自动化 coures:    物理 | 
+class:    计师 coures:    电路 | class:    计师 coures:    计导 | class:    计师 coures:    物理 | class:  自动化 coures:    高数 | class:  自动化 coures:    物理 | 
+class:    计师 coures:    电路 | class:    计师 coures:    计导 | class:         coures:         | class:  自动化 coures:    高数 | class:         coures:         | 
+
+*******************************************************************************
+教室:4
+class:  自动化 coures:    英语 | class:  自动化 coures:  python | class:         coures:         | class:         coures:         | class:         coures:         | 
+class:  自动化 coures:    英语 | class:  自动化 coures:  python | class:         coures:         | class:         coures:         | class:         coures:         | 
+class:  自动化 coures:    英语 | class:  自动化 coures:  python | class:         coures:         | class:         coures:         | class:         coures:         | 
+class:  自动化 coures:    物理 | class:         coures:         | class:         coures:         | class:         coures:         | class:         coures:         | 
+class:  自动化 coures:    物理 | class:         coures:         | class:         coures:         | class:         coures:         | class:         coures:         | 
+
+class:  自动化 coures:    电分 | class:  自动化 coures:    高数 | class:         coures:         | class:         coures:         | class:         coures:         | 
+class:  自动化 coures:    电分 | class:  自动化 coures:    高数 | class:         coures:         | class:         coures:         | class:         coures:         | 
+class:  自动化 coures:    电分 | class:  自动化 coures:    高数 | class:         coures:         | class:         coures:         | class:         coures:         | 
+class:         coures:         | class:         coures:         | class:         coures:         | class:         coures:         | class:         coures:         | 
+
+class:  自动化 coures:     web | class:  自动化 coures:    电路 | class:         coures:         | class:         coures:         | class:         coures:         | 
+class:  自动化 coures:     web | class:  自动化 coures:    电路 | class:         coures:         | class:         coures:         | class:         coures:         | 
+class:  自动化 coures:     web | class:  自动化 coures:    电路 | class:         coures:         | class:         coures:         | class:         coures:         | 
+
+*******************************************************************************
+教室:5
+class:         coures:         | class:         coures:         | class:         coures:         | class:         coures:         | class:         coures:         | 
+class:         coures:         | class:         coures:         | class:         coures:         | class:         coures:         | class:         coures:         | 
+class:         coures:         | class:         coures:         | class:         coures:         | class:         coures:         | class:         coures:         | 
+class:         coures:         | class:         coures:         | class:         coures:         | class:         coures:         | class:         coures:         | 
+class:         coures:         | class:         coures:         | class:         coures:         | class:         coures:         | class:         coures:         | 
+
+class:         coures:         | class:         coures:         | class:         coures:         | class:         coures:         | class:         coures:         | 
+class:         coures:         | class:         coures:         | class:         coures:         | class:         coures:         | class:         coures:         | 
+class:         coures:         | class:         coures:         | class:         coures:         | class:         coures:         | class:         coures:         | 
+class:         coures:         | class:         coures:         | class:         coures:         | class:         coures:         | class:         coures:         | 
+
+class:         coures:         | class:         coures:         | class:         coures:         | class:         coures:         | class:         coures:         | 
+class:         coures:         | class:         coures:         | class:         coures:         | class:         coures:         | class:         coures:         | 
+class:         coures:         | class:         coures:         | class:         coures:         | class:         coures:         | class:         coures:         | 
+
+*******************************************************************************

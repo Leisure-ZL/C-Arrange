@@ -1,0 +1,15 @@
+ID:3	教师:王
+class:           course:           | class:           course:           | class:           course:           | class:           course:           | class:      思修 course:    自动化 | 
+class:           course:           | class:           course:           | class:           course:           | class:           course:           | class:      思修 course:    自动化 | 
+class:           course:           | class:           course:           | class:           course:           | class:           course:           | class:      思修 course:    自动化 | 
+class:           course:           | class:           course:           | class:           course:           | class:           course:           | class:           course:           | 
+class:           course:           | class:           course:           | class:           course:           | class:           course:           | class:           course:           | 
+
+class:      思修 course:      计师 | class:           course:           | class:           course:           | class:           course:           | class:      思修 course:  软件工程 | 
+class:      思修 course:      计师 | class:           course:           | class:           course:           | class:           course:           | class:      思修 course:  软件工程 | 
+class:      思修 course:      计师 | class:           course:           | class:           course:           | class:           course:           | class:      思修 course:  软件工程 | 
+class:           course:           | class:           course:           | class:           course:           | class:           course:           | class:           course:           | 
+
+class:      思修 course:  网络工程 | class:           course:           | class:      思修 course:      计科 | class:           course:           | class:           course:           | 
+class:      思修 course:  网络工程 | class:           course:           | class:      思修 course:      计科 | class:           course:           | class:           course:           | 
+class:      思修 course:  网络工程 | class:           course:           | class:      思修 course:      计科 | class:           course:           | class:           course:           | 

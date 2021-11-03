@@ -1,0 +1,15 @@
+ID:2	教师:罗
+class:           course:           | class:           course:           | class:           course:           | class:      高数 course:  网络工程 | class:      高数 course:  软件工程 | 
+class:           course:           | class:           course:           | class:           course:           | class:      高数 course:  网络工程 | class:      高数 course:  软件工程 | 
+class:           course:           | class:      高数 course:  软件工程 | class:           course:           | class:      高数 course:  网络工程 | class:      高数 course:  软件工程 | 
+class:           course:           | class:      高数 course:  软件工程 | class:           course:           | class:           course:           | class:           course:           | 
+class:           course:           | class:      高数 course:  软件工程 | class:           course:           | class:           course:           | class:           course:           | 
+
+class:      高数 course:  网络工程 | class:      高数 course:    自动化 | class:           course:           | class:           course:           | class:           course:           | 
+class:      高数 course:  网络工程 | class:      高数 course:    自动化 | class:           course:           | class:           course:           | class:           course:           | 
+class:      高数 course:  网络工程 | class:      高数 course:    自动化 | class:           course:           | class:           course:           | class:           course:           | 
+class:           course:           | class:           course:           | class:           course:           | class:           course:           | class:           course:           | 
+
+class:           course:           | class:           course:           | class:           course:           | class:      高数 course:    自动化 | class:           course:           | 
+class:           course:           | class:           course:           | class:           course:           | class:      高数 course:    自动化 | class:           course:           | 
+class:           course:           | class:           course:           | class:           course:           | class:      高数 course:    自动化 | class:           course:           | 

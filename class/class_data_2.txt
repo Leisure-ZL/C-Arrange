@@ -1,0 +1,15 @@
+班级:计科
+class:      计科 course:           | class:      计科 course:           | class:      计科 course:    python | class:      计科 course:      电路 | class:      计科 course:    python | 
+class:      计科 course:           | class:      计科 course:           | class:      计科 course:    python | class:      计科 course:      电路 | class:      计科 course:    python | 
+class:      计科 course:           | class:      计科 course:           | class:      计科 course:    python | class:      计科 course:      电路 | class:      计科 course:    python | 
+class:      计科 course:           | class:      计科 course:           | class:      计科 course:      体育 | class:      计科 course:      物理 | class:      计科 course:      物理 | 
+class:      计科 course:           | class:      计科 course:           | class:      计科 course:      体育 | class:      计科 course:      物理 | class:      计科 course:      物理 | 
+
+class:      计科 course:           | class:      计科 course:           | class:      计科 course:      高数 | class:      计科 course:      英语 | class:      计科 course:      高数 | 
+class:      计科 course:           | class:      计科 course:           | class:      计科 course:      高数 | class:      计科 course:      英语 | class:      计科 course:      高数 | 
+class:      计科 course:           | class:      计科 course:           | class:      计科 course:      高数 | class:      计科 course:      英语 | class:      计科 course:      高数 | 
+class:      计科 course:           | class:      计科 course:           | class:      计科 course:           | class:      计科 course:           | class:      计科 course:           | 
+
+class:      计科 course:           | class:      计科 course:           | class:      计科 course:      思修 | class:      计科 course:       web | class:      计科 course:      电路 | 
+class:      计科 course:           | class:      计科 course:           | class:      计科 course:      思修 | class:      计科 course:       web | class:      计科 course:      电路 | 
+class:      计科 course:           | class:      计科 course:           | class:      计科 course:      思修 | class:      计科 course:       web | class:      计科 course:      电路 | 

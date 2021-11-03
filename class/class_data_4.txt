@@ -1,0 +1,15 @@
+班级:自动化
+class:    自动化 course:      英语 | class:    自动化 course:    python | class:    自动化 course:           | class:    自动化 course:           | class:    自动化 course:      思修 | 
+class:    自动化 course:      英语 | class:    自动化 course:    python | class:    自动化 course:           | class:    自动化 course:           | class:    自动化 course:      思修 | 
+class:    自动化 course:      英语 | class:    自动化 course:    python | class:    自动化 course:           | class:    自动化 course:           | class:    自动化 course:      思修 | 
+class:    自动化 course:      物理 | class:    自动化 course:           | class:    自动化 course:           | class:    自动化 course:      体育 | class:    自动化 course:           | 
+class:    自动化 course:      物理 | class:    自动化 course:           | class:    自动化 course:           | class:    自动化 course:      体育 | class:    自动化 course:           | 
+
+class:    自动化 course:      电分 | class:    自动化 course:      高数 | class:    自动化 course:           | class:    自动化 course:    python | class:    自动化 course:      电路 | 
+class:    自动化 course:      电分 | class:    自动化 course:      高数 | class:    自动化 course:           | class:    自动化 course:    python | class:    自动化 course:      电路 | 
+class:    自动化 course:      电分 | class:    自动化 course:      高数 | class:    自动化 course:           | class:    自动化 course:    python | class:    自动化 course:      电路 | 
+class:    自动化 course:           | class:    自动化 course:           | class:    自动化 course:           | class:    自动化 course:           | class:    自动化 course:           | 
+
+class:    自动化 course:       web | class:    自动化 course:      电路 | class:    自动化 course:           | class:    自动化 course:      高数 | class:    自动化 course:      物理 | 
+class:    自动化 course:       web | class:    自动化 course:      电路 | class:    自动化 course:           | class:    自动化 course:      高数 | class:    自动化 course:      物理 | 
+class:    自动化 course:       web | class:    自动化 course:      电路 | class:    自动化 course:           | class:    自动化 course:      高数 | class:    自动化 course:           | 

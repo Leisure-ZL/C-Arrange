@@ -1,0 +1,15 @@
+班级:网络工程
+class:  网络工程 course:     C语言 | class:  网络工程 course:      体育 | class:  网络工程 course:      汇编 | class:  网络工程 course:      高数 | class:  网络工程 course:           | 
+class:  网络工程 course:     C语言 | class:  网络工程 course:      体育 | class:  网络工程 course:      汇编 | class:  网络工程 course:      高数 | class:  网络工程 course:           | 
+class:  网络工程 course:     C语言 | class:  网络工程 course:      电路 | class:  网络工程 course:      汇编 | class:  网络工程 course:      高数 | class:  网络工程 course:           | 
+class:  网络工程 course:      java | class:  网络工程 course:      电路 | class:  网络工程 course:      物理 | class:  网络工程 course:           | class:  网络工程 course:           | 
+class:  网络工程 course:      java | class:  网络工程 course:      电路 | class:  网络工程 course:      物理 | class:  网络工程 course:           | class:  网络工程 course:           | 
+
+class:  网络工程 course:      高数 | class:  网络工程 course:      物理 | class:  网络工程 course:       web | class:  网络工程 course:      电路 | class:  网络工程 course:           | 
+class:  网络工程 course:      高数 | class:  网络工程 course:      物理 | class:  网络工程 course:       web | class:  网络工程 course:      电路 | class:  网络工程 course:           | 
+class:  网络工程 course:      高数 | class:  网络工程 course:      java | class:  网络工程 course:       web | class:  网络工程 course:      电路 | class:  网络工程 course:           | 
+class:  网络工程 course:           | class:  网络工程 course:      java | class:  网络工程 course:           | class:  网络工程 course:           | class:  网络工程 course:           | 
+
+class:  网络工程 course:      思修 | class:  网络工程 course:      英语 | class:  网络工程 course:     C语言 | class:  网络工程 course:           | class:  网络工程 course:           | 
+class:  网络工程 course:      思修 | class:  网络工程 course:      英语 | class:  网络工程 course:     C语言 | class:  网络工程 course:           | class:  网络工程 course:           | 
+class:  网络工程 course:      思修 | class:  网络工程 course:      英语 | class:  网络工程 course:     C语言 | class:  网络工程 course:           | class:  网络工程 course:           | 

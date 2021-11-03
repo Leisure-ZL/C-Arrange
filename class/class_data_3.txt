@@ -1,0 +1,15 @@
+班级:计师
+class:      计师 course:      高数 | class:      计师 course:      物理 | class:      计师 course:      高数 | class:      计师 course:      计导 | class:      计师 course:           | 
+class:      计师 course:      高数 | class:      计师 course:      物理 | class:      计师 course:      高数 | class:      计师 course:      计导 | class:      计师 course:           | 
+class:      计师 course:      高数 | class:      计师 course:      英语 | class:      计师 course:      高数 | class:      计师 course:      计导 | class:      计师 course:           | 
+class:      计师 course:      体育 | class:      计师 course:      英语 | class:      计师 course:           | class:      计师 course:           | class:      计师 course:           | 
+class:      计师 course:      体育 | class:      计师 course:      英语 | class:      计师 course:           | class:      计师 course:           | class:      计师 course:           | 
+
+class:      计师 course:      思修 | class:      计师 course:      教资 | class:      计师 course:      电路 | class:      计师 course:           | class:      计师 course:           | 
+class:      计师 course:      思修 | class:      计师 course:      教资 | class:      计师 course:      电路 | class:      计师 course:           | class:      计师 course:           | 
+class:      计师 course:      思修 | class:      计师 course:      教资 | class:      计师 course:      电路 | class:      计师 course:           | class:      计师 course:           | 
+class:      计师 course:           | class:      计师 course:           | class:      计师 course:           | class:      计师 course:           | class:      计师 course:           | 
+
+class:      计师 course:      电路 | class:      计师 course:      计导 | class:      计师 course:      物理 | class:      计师 course:           | class:      计师 course:           | 
+class:      计师 course:      电路 | class:      计师 course:      计导 | class:      计师 course:      物理 | class:      计师 course:           | class:      计师 course:           | 
+class:      计师 course:      电路 | class:      计师 course:      计导 | class:      计师 course:           | class:      计师 course:           | class:      计师 course:           | 

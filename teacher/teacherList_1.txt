@@ -1,0 +1,15 @@
+ID:1	教师:伍
+class:           course:           | class:      java course:  软件工程 | class:           course:           | class:           course:           | class:           course:           | 
+class:           course:           | class:      java course:  软件工程 | class:           course:           | class:           course:           | class:           course:           | 
+class:           course:           | class:           course:           | class:           course:           | class:           course:           | class:           course:           | 
+class:      java course:  网络工程 | class:           course:           | class:           course:           | class:      java course:  软件工程 | class:           course:           | 
+class:      java course:  网络工程 | class:           course:           | class:           course:           | class:      java course:  软件工程 | class:           course:           | 
+
+class:           course:           | class:           course:           | class:           course:           | class:           course:           | class:           course:           | 
+class:           course:           | class:           course:           | class:           course:           | class:           course:           | class:           course:           | 
+class:           course:           | class:      java course:  网络工程 | class:           course:           | class:           course:           | class:           course:           | 
+class:           course:           | class:      java course:  网络工程 | class:           course:           | class:           course:           | class:           course:           | 
+
+class:           course:           | class:           course:           | class:           course:           | class:           course:           | class:           course:           | 
+class:           course:           | class:           course:           | class:           course:           | class:           course:           | class:           course:           | 
+class:           course:           | class:           course:           | class:           course:           | class:           course:           | class:           course:           | 

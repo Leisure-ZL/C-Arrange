@@ -1,0 +1,15 @@
+ID:0	教师:何
+class:     C语言 course:  网络工程 | class:           course:           | class:           course:           | class:           course:           | class:           course:           | 
+class:     C语言 course:  网络工程 | class:           course:           | class:           course:           | class:           course:           | class:           course:           | 
+class:     C语言 course:  网络工程 | class:           course:           | class:           course:           | class:           course:           | class:           course:           | 
+class:           course:           | class:           course:           | class:           course:           | class:           course:           | class:           course:           | 
+class:           course:           | class:           course:           | class:           course:           | class:           course:           | class:           course:           | 
+
+class:           course:           | class:           course:           | class:           course:           | class:           course:           | class:           course:           | 
+class:           course:           | class:           course:           | class:           course:           | class:           course:           | class:           course:           | 
+class:           course:           | class:           course:           | class:           course:           | class:           course:           | class:           course:           | 
+class:           course:           | class:           course:           | class:           course:           | class:           course:           | class:           course:           | 
+
+class:     C语言 course:  软件工程 | class:           course:           | class:     C语言 course:  网络工程 | class:     C语言 course:  软件工程 | class:           course:           | 
+class:     C语言 course:  软件工程 | class:           course:           | class:     C语言 course:  网络工程 | class:     C语言 course:  软件工程 | class:           course:           | 
+class:     C语言 course:  软件工程 | class:           course:           | class:     C语言 course:  网络工程 | class:     C语言 course:  软件工程 | class:           course:           | 
